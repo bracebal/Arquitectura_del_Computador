@@ -1,50 +1,62 @@
-<center> República Bolivariana de Venezuela </center>
+﻿<center> República Bolivariana de Venezuela </center>
 
 <center>Universidad de Carabobo</center>
 
-<center> Facultad Experimental de Ciencias y Tecnología </center>  
+<center> Facultad Experimental de Ciencias y Tecnología </center> 
+
+<center> Departamento de Computación - Arquitectura del Computador </center>
 
 <br>
 <br>
-
-# <center> Propuesta de Computador para Modelado Computacional </center>
 
 Autores:
-* Br. Antonel López C.I. 30.020.199
+* Br. Guillermo Cedeño C.I. 30.523.039
 * Br. Brayan Ceballos C.I. 29.569.937
 
----
+# <center> Propuesta de Computador para el desarrollo de Realidad Virtual </center>
 
-## Estado del Arte
-En los ultimos años el crecimiento computacional ha sido uno de los más notorios dentro del área tecnológica. 
+La siguiente propuesta tiene como finalidad la presentación de un computador capacitado para el desarollo de realidad virtual, de igual forma busca analizar y trabajar las interacciones en este ámbito. Se cuenta con un presupuesto de $2500 US, que se considera suficiente para el planteamiento del equipo, pero antes se quiere describir el estado del arte actual de la realidad virtual así como el enfoque de esta rama computacional.
 
-Destacándose principalmente en el área de las computadoras; sin estas no serian posibles una innumerable cantidad de avances en el área social, científica, médica, industrial, etc. Todos estos avances han sido acompañados por una gran cantidad de profesionales que se han encargado de llevar la ciencia computacional a su nivel máximo de eficiencia, en un transitar tecnológico con un destino de carácter exponencial; hasta llegar al día de hoy con un nuevo capítulo de esa evolución llamado metaverso. 
+## Estado del Arte: Realidad virtual
 
-Un ecosistema que ha sido desarrollado por muchas empresas, que hasta la fecha han logrado encajar todos esos avances computacionales para la creación de un nuevo modelo de computadoras empotradas, que llevan por nombre visores de RV.
+Hoy en día, la realidad virtual es una modalidad que se encuentra en pleno crecimiento. Algo que mucho tiempo atrás se veía imposible se hace cada vez más tangible. Este es un campo que exige a gran demanda al computador y es una de las razones por la cuál no es una faceta que posea facilidad en la interacción. Adicionalmente, existen inconvenientes debido a los altos precios que pueden alcanzar los equipos necesarios para interactuar con este entorno. Más sin embargo, esta brecha ha disminuido al pasar del tiempo, ya que con el crecimiento del mercado del hardware y la formación técnica del público general, se han logrado desarrollar computadores que permitan el disfrute de la realidad virtual como se encuentra establecida hoy en día.
 
-Esto es una muestra del tópico que a nivel de hardware queremos tratar acá: El modelado computacional. Un tema que se ha tratado durante años, desde la época a.C. el ser humano a sentido la necesidad de plasmar los objetos, instrumentos y hasta las formas humanas en algún lugar o superficie. Y el mundo de la computación no ha sido ajeno a esta necesidad. En toda esta evolución tecnológica se han desarrollado programas que han permitido plasmar esos objetos que el humano a apreciado, dentro de una computadora. Esto nos lleva a la presentación de nuestra propuesta.
+La realidad virtual es la creación de un entorno o escenario ficticio o simulado con apariencia totalmente real y que nos permite trasladarnos a cualquier lugar o situación que queramos como si nos creyésemos dentro de él, con la ilusión de estar dentro de este entorno. A través de diversos dispositivos como gafas o cascos de realidad virtual, con estos podemos sumergirnos dentro de ecosistemas, juegos y/o escenarios de diversa índole donde nos creamos nuestros avatares, que nos representan a través de una experiencia totalmente realista.
 
-### Propuesta de Computador
-
-Se vale mencionar que como estudiantes de Computación nos gusta mucho el crecimiento de nuestra carrera, y a su vez queremos formar parte de el. La siguiente propuesta, tiene como finalidad plantear un computador capacitado e implementado para el desarrollo de modelos computacionales: Específicamente en área de la matemática, física y medicina.
-
-#### ¿Por qué ésta es un área de interés?
-
-Los modelos computacionales permiten dar una guía a los profesionales que los desarrollan con respecto al área dónde estos se desempeñan. Para así brindar una mayor comodidad en la manipulación y análisis de los datos. Por ende, se quiere proporcionar un equipo que cumpla con los estándares para el modelado visual, matemático e ideológico de las áreas de trabajo antes mencionadas. A continuación, en el siguiente cuadro mencionamos los elementos del equipo propuesto. Por último queremos destacar que se proporcionó un presupuesto correspiente a $2.500USD.
+Todo esto es un preámbulo para el siguiente cuadro, donde mencionamos los componentes de nuestra CPU capaz de soportar de manera holgada la mayoría de los escenarios a los que será sometido por los programas de realidad virtual.
 
 | Pieza | Marca/Modelo | Precio (USD) | Link |
 | --- | --- | --- | --- |
-| Procesador | Intel Core i7 12th Generación | $345 | [Mercadolibre.com](https://articulo.mercadolibre.com.ve/MLV-706914045-procesador-intel-core-i7-12700k-12gen-socket-1700-12-nucleos-_JM#position=4&search_layout=grid&type=item&tracking_id=9402b9c5-e1b0-4dfa-b95b-9c261a051b9e) |
-| Tarjeta Gráfica | MSI NVIDIA GeForce RTX 4070 12GB | $829,99 | [AmazonUS.com](https://www.amazon.com/-/es/GeForce-RTX-4070-Architecture-12G/dp/B0BNWFM7MZ/ref=sr_1_7?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2RX0OYIPCZ280&keywords=MSI+NVIDIA+GeForce+RTX+4070&qid=1689031108&sprefix=msi+nvidia+geforce+rtx+4070%2Caps%2C270&sr=8-7) | 
-| Placa Madre | ASUS ROG Maximus XIII Hero | $310 | [AmazonUS.com](https://www.amazon.com/-/es/ROG-XIII-generaci%C3%B3n-Motherboard-Thunderbolt/dp/B08T6BHQC8/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1041Y4BTB32IX&keywords=asus+rog+maximus+viii+hero&qid=1689028084&sprefix=asus+rog+maximus+xiii+hero%2Caps%2C272&sr=8-1) |
-| Memoria RAM | Corsair Vengeance RGB Pro 32GB (2*16GB) | $96,99 | [AmazonUS.com](https://www.amazon.com/-/es/Corsair-Vengeance-PC4-25600-Memoria-escritorio/dp/B081XWLQKS/ref=sr_1_3?crid=2SP46Q8IBEYRM&keywords=corsair+vengeance+rgb+pro+32gb&qid=1689033156&s=electronics&sprefix=Corsair+Vengence+RGB+Pro%2Celectronics%2C237&sr=1-3) |
-| Almacenamiento | Samsung 970 EVO PLUS SSD 1TB | $54,99 | [AmazonUS.com](https://www.amazon.com/-/es/Samsung-970-EVO-Plus-Internal/dp/B07MFZY2F2/ref=sr_1_3?crid=DK574FK87ZAI&keywords=samsung+970+evo+plus+1tb&qid=1689033222&s=electronics&sprefix=Samsung+EVO+PLUS%2Celectronics%2C281&sr=1-3) |
-| Fuente de Poder | Corsair RM750e 750W 80+gold | $112 | [MercadoLibre.com](https://articulo.mercadolibre.com.ve/MLV-740192105-fuente-de-poder-certificada-corsair-rm750e-750w-80gold-_JM#position=10&search_layout=grid&type=item&tracking_id=10e0f8db-b2e3-4796-b084-d3522d5069c3) |
-| Sistema de Refrigeración | Corsair iCUE H150i ELITE | $292,61 | [AmazonUS.com](https://www.amazon.com/personalizada-ventiladores-controlador-iluminaci%C3%B3n-inteligente/dp/B09HDWQKV8/ref=mp_s_a_1_1?crid=1HPUE9MZF93K&keywords=sistema+de+refrigeraci%C3%B3n+liquida&qid=1689025115&sprefix=sistema+de+refrigeraci%C3%B3n+liquid%2Caps%2C229&sr=8-1) |
-| Carcasa | Phanteks Enthoo Pro Full | $114 | [AmazonUS.com](https://www.amazon.com/Carcasa-Phanteks-Enthoo-Pro-Full/dp/B00KFAG6DA/ref=psdc_3012292011_t1_B078K32G27) |
+| Procesador | Intel Core i7-13700KF | $400 | [AmazonUS.com](https://www.amazon.com/-/es/i7-13700KF-generaci%C3%B3n-Procesador-escritorio-n%C3%BAcleos/dp/B0BCDL7F5W/ref=sr_1_1?keywords=i7%2B13700kf&qid=1689083059&sprefix=i7%2Caps%2C549&sr=8-1&th=1) |
+| GPU | Gigabyte GeForce RTX 4070 TI EAGLE OC 12GB GDDR6X DLSS3 | $943 | [AmazonUS.com](https://www.amazon.com/-/es/Gigabyte-ventiladores-WINDFORCE-GV-N407TGAMING-OC-12GD/dp/B0BRR2R8HH/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1CGQ2SWINMWJX&keywords=Gigabyte+GeForce+RTX+4070+Ti+EAGLE+OC+12GB+GDDR6X+DLSS3&qid=1689100379&sprefix=corsair+icue+h150i+rgb+elite+enfriador+l%C3%ADquido+de+cpu%2Caps%2C364&sr=8-1) | 
+|Placa Madre | MSI MAG Z790 TOMAHAWK WIFI | $212 | [AmazonUS.com](https://www.amazon.com/-/es/MAG-Z790-compatible-procesadores-generaci%C3%B3n/dp/B0BL8K1YH1/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3DBPZOPPC3ITK&keywords=MSI+MAG+Z790+TOMAHAWK+WIFI&qid=1689100461&sprefix=corsair+icue+h150i+rgb+elite+enfriador+l%C3%ADquido+de+cpu%2Caps%2C368&sr=8-1) |
+| Memoria RAM | Corsair Dominator Platinum RGB DDR5 32GB | $174 | [AmazonUS.com](https://www.amazon.es/Corsair-Optimizada-Regulaci%C3%B3n-Refrigeraci%C3%B3n-Ultrabrillantes/dp/B0BPLCCR1J/ref=sr_1_1_sspa?keywords=ram+ddr5+6400mhz&qid=1689085504&sprefix=ram+ddr5+6400%2Caps%2C342&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) |
+| Almacenamiento | Corsair MP600 CORE XT 2TB Gen4 PCIe x4 NVMe M.2 | $128 | [AmazonUS.com](https://www.amazon.es/Corsair-MP600-Core-PCIe-Gen4/dp/B0BZ5J9W22/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TSJUIJ36E41V&keywords=corsair+mp600+core+xt+2tb+gen4+pcie+x4+nvme+m.2&qid=1689101249&sprefix=corsair+mp600+core+xt+2+tb+gen4+pcie+x4+nvme+m.2%2Caps%2C442&sr=8-1) |
+| Fuente de Poder | Corsair RMx Series RM1200x 850W 80 Plus Gold Modular | $235 | [AmazonUS.com](https://www.amazon.es/Corsair-RM1200x-Alimentaci%C3%B3n-Totalmente-Modular/dp/B0BPSYHY41/ref=sr_1_1_sspa?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Corsair+RMx+Series+RM850x+850W+80+Plus+Gold+Modular&qid=1689101370&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) |
+| Sistema de Refrigeración | Corsair iCUE H150i RGB ELITE (Enfriamiento Líquido) | $158 | [AmazonUS.com](https://www.amazon.com/-/es/Enfriador-din%C3%A1micos-ventiladores-radiador-compatible/dp/B09YCHFXQL/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=orsair+iCUE+H150i+RGB+Elite+Enfriador+l%C3%ADquido+de+CPU&qid=1689100224&sr=8-1) |
+| Carcasa | Corsair 700D AirFlow ATX Full-Towe | $250 | [AmazonUS.com](https://www.amazon.es/Corsair-Full-Tower-Ventiladores-Incluidos-Repetidor/dp/B094442NL5/ref=sr_1_6?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Caja%3A+Corsair+iCUE+5000D+RGB+AIRFLOW+Cristal+Templado+USB+3.2+Blanca&qid=1689085858&sr=8-6) |
 
-El presupuesto final es de $2500,58 USD. Como comentario de caracter descriptivo destacamos el uso del procesador Intel Core i7 de 12 núcleos con el cuál los datos serán manejados de forma eficaz y ordenada para que el sistema pueda distribuir de la mejor forma la tarea a ejecutar. De igual forma destaca la memoria RAM de 2 * 16GB ya que los programas que serán usados serán de máxima exigencia y se cree que esta cantidad de RAM corresponde a las tareas a las que será sometido el equipo.
+A continuación se desarrollará con más detalle cada unos de los componentes: 
+
+1. Procesador Intel Core i7-13700KF: Este procesador cuenta con una gran capacidad para asimilar datos, esto nos permitirá manejar todos los datos que se puedan recopilar e interactuar dentro del ecosistema de realidad virtual, este posee un total de 16 núcleos el cuál nos otorga como ventaja el manejo de múltiples programas así como de la imagen, sonido y herramientas de interacción necesarias para que la realidad virtual sea los más _realista_ posible. De igual forma destaca su poco tiempo en el mercado y su carácter de tope de gama.
+
+
+2. GPU Gigabyte GeForce RTX 4070 Ti EAGLE OC 12GB GDDR6X DLSS3: Siguiendo el orden de ideas, se seleccionó este GPU por el salto de calidad que le aporta a la PC, por medio de sus gráficos acompañados con tecnología IA. Esta tarjeta gráfica abre un mundo de posibilidades en los entornos virtuales, dando trazos realistas, con FPS altísimos y de muy baja latencia. Esto nos permité darle ese plus necesario al equipo para que el desarrollo del ámbito virtual se vea favorecido con esos rasgos realistas.
+
+3. Placa madre MSI MAG Z790 TOMAHAWK WIFI: Una placa madre moderna con gran soporte para los componentes propuestos. Esta placa característica de MSI compatible con procesadores de 13mo. tercera Gen cuenta con un diseño de alimentación mejorado que incluye sistemas de alimentación Duet Rail 16+1+1, Core Boost y Memory Boost, favoreciendo a la interacción gráfica. Factor necesario para el campo actual (RV).
+
+4. Memoria RAM Corsair Dominator Platinum RGB DDR5 32GB: La gama de memoria RAM de Corsair ofrece una compatiblidad máxima con procesadores Intel, esta es la principal razón de la elección de este componente. De igual manera destaca el aprovechamiento de las frecuencias más altas y su capacidad en la memoria DDR5 con un control manejado por el propio software de Corsair.
+
+5. Almacenamiento Corsair MP600 CORE XT 2 TB Gen4 PCIe x4 NVMe M.2: Esta unidad de almacenamiento ofrece una capacidad beneficiosa para el desarrollo de realidad virtual debido a su alta velocidad de lectura y escritura, lo que permite una carga rápida de datos y una transferencia eficiente de información. Esto puede mejorar el rendimiento y la fluidez de las aplicaciones de realidad virtual, lo que a su vez puede mejorar la experiencia del usuario.
+
+6. Fuente de poder Corsair RMx Series RM1200x 850W 80 Plus Gold Modular: esta fuente de poder es ventajosa para un equipo que desarrolla realidad virtual al proporcionar una alimentación estable y eficiente a los componentes del sistema. Esto puede mejorar el rendimiento y la estabilidad del equipo, lo que a su vez puede mejorar la experiencia de desarrollo y uso de aplicaciones de realidad virtual.
+
+7. Refrigeración Corsair iCUE H150i RGB Elite: Refrigeración líquida de calidad para la CPU, con iluminación RGB integrada y visualmente refinado. Los ventiladores PWM CORSAIR AF Elite suministran un flujo de aire bastante potente y silencioso que aporta el mantenimiento inmediato para el equipo.
+
+
+8. Carcasa Corsair 7000D AIRFLOW ATX Full-Tower: Case grande y con buena circulación de aire, adicionalmente cuenta con 3 ventiladores que mantienen aún más la refrigeración y protección del equipo.
 
 #### Conclusión
+Podemos concluir que con estos componentes poseemos todos los elementos gráficos y de potencia necesarios para el desarollo de realidad virtual. Es un armado suficiente para lo que se busca. Si faltaría escoger unos buenos lentes de realidad virtual compatibles para hacer una inmersión mucho más profunda. Como recomendación se proponen las HTC Vive, pero éstas ya se encuentran fuera de presupuesto.
 
-Englobando todo y cada uno de los componentes se concluye que este equipo podrá desarrollar las tareas a las que sea sometido y permitirá a los profesionales del área sacar el máximo provecho al equipo.
+Esperamos que esta propuesta sea beneficiosa para el área computacional y que logre responder todas las interrogantes propuestas.
